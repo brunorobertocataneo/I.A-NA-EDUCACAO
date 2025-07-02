@@ -94,10 +94,4 @@ O site pode ser facilmente personalizado:
 
 Este projeto é de uso livre para fins educacionais e comerciais.
 
-## 🤝 Contribuições
-
-Sinta-se à vontade para contribuir com melhorias, correções ou novas funcionalidades.
-
 ---
-
-**Desenvolvido com ❤️ para demonstrar o potencial da IA na educação** 
