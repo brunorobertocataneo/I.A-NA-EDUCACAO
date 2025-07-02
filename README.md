@@ -90,8 +90,4 @@ O site pode ser facilmente personalizado:
 - **Conteúdo**: Edite o texto no arquivo `index.html`
 - **Funcionalidades**: Adicione novas features no `script.js`
 
-## 📄 Licença
-
-Este projeto é de uso livre para fins educacionais e comerciais.
-
 ---
