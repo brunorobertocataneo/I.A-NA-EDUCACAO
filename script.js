@@ -155,7 +155,7 @@ function getAIResponse(message) {
         return "O futuro da educação com IA inclui ambientes híbridos, aprendizado mais personalizado, e o desenvolvimento de habilidades essenciais para o século 21.";
     }
     
-    return "Interessante pergunta! A IA na educação é um campo em constante evolução. Posso ajudar você com informações sobre personalização, aplicações práticas, ou desafios da tecnologia educacional.";
+    return "Interessante pergunta! A IA na educação é um campo em constante evolução. Posso ajudar você com informações sobre personalização, aplicações práticas, ou desafios da tecnologia educacional. ou te encaminhar o número do nosso comercial para responder sua dúvida!";
 }
 
 // Permitir envio com Enter
